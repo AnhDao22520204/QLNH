@@ -27,6 +27,26 @@
 * Lập hóa đơn, chi tiết hóa đơn
 * In, xóa, sửa hóa đơn
 * Quản lý, cập nhật nguyên liệu trong kho
-## 
+## Chức năng của Người quản lý
+* Chức năng quản lý nhân viên
+* Chức năng quản lý thực đơn
+* Chức năng quản lý hóa đơn
+* Chức năng quản lý thống kê
+* Chức năng quản lý bàn
+* Chức năng quản lý nguyên liệu trong kho
+# DEMO
+## Đăng ký
+![signup](https://github.com/AnhDao22520204/QLNH/assets/145555071/2fb1eb97-5862-4c66-8bcd-22d5ce6b21fd)
+## Đăng nhập
+![login](https://github.com/AnhDao22520204/QLNH/assets/145555071/e0cf1bc3-cf1d-40eb-bfa4-4ffa47572f8c)
+## Quên mật khẩu
+![forgot](https://github.com/AnhDao22520204/QLNH/assets/145555071/e5d13e93-4588-438d-9035-60ca23e653b2)
+## Quản lý nhân viên
+![Quản lý nhân viên](https://github.com/AnhDao22520204/QLNH/assets/145555071/4027b461-6799-44e5-ab3f-68f586245215)
+## Quản lý thực đơn
+## Quản lý hóa đơn
+## Quản lý thống kê
+## Quản lý bàn
+## Quản lý nguyên liệu trong kho
 
 
