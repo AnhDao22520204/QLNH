@@ -44,9 +44,20 @@
 ## Quản lý nhân viên
 ![Quản lý nhân viên](https://github.com/AnhDao22520204/QLNH/assets/145555071/4027b461-6799-44e5-ab3f-68f586245215)
 ## Quản lý thực đơn
+![thực đơn](https://github.com/AnhDao22520204/QLNH/assets/145555071/9ed0a987-8ea0-4017-ae65-c79184ec3a5a)
 ## Quản lý hóa đơn
+![HoaDon](https://github.com/AnhDao22520204/QLNH/assets/145555071/ca231c4d-d058-4347-8156-6deecb12a8c6)
 ## Quản lý thống kê
+![thongke](https://github.com/AnhDao22520204/QLNH/assets/145555071/1a94fe7e-f129-4afb-a10e-71fa4b09b404)
 ## Quản lý bàn
+![QLBan](https://github.com/AnhDao22520204/QLNH/assets/145555071/a7bdc487-e6e3-4f02-8729-b23a53cc1350)
 ## Quản lý nguyên liệu trong kho
+![QLKho(ThemNL)](https://github.com/AnhDao22520204/QLNH/assets/145555071/e1236d9e-dc17-4d92-ad23-1b210c360e1a)
+![NLHanhjava](https://github.com/AnhDao22520204/QLNH/assets/145555071/dc2a3483-3075-4bf4-aad1-a8014bd8eb8e)
+![phxkho](https://github.com/AnhDao22520204/QLNH/assets/145555071/2eec82a3-bb93-444c-97df-c6bc03f46078)
+![phienhapkho](https://github.com/AnhDao22520204/QLNH/assets/145555071/cb851571-836a-43b9-9b8a-b8983fa9f1c8)
+
+
+
 
 
