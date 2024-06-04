@@ -34,6 +34,8 @@
 * Chức năng quản lý thống kê
 * Chức năng quản lý bàn
 * Chức năng quản lý nguyên liệu trong kho
+# MÔ HÌNH DỮ LIỆU QUAN HỆ
+![MÔ HÌNH DLQH](https://github.com/AnhDao22520204/QLNH/assets/145555071/913e832b-a57b-4a36-a725-3a8a99877934)
 # DEMO
 ## Đăng ký
 ![signup](https://github.com/AnhDao22520204/QLNH/assets/145555071/2fb1eb97-5862-4c66-8bcd-22d5ce6b21fd)
